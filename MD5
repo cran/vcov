@@ -1,0 +1,10 @@
+329cfa5b0fb2dd08e16af5918ff2c067 *DESCRIPTION
+84dcc94da3adb52b53ae4fa38fe49e5d *LICENSE
+7f801add42998790d08e4c29b2a9b2e3 *NAMESPACE
+ab5d2a180b113d3b010a381c11095353 *R/test.vcov.R
+4e265fa2c1cb4fa59a9bd409a93960d0 *R/vcov.R
+a8e51610bb7c92477b5b4c1300bac701 *README.md
+8b7deaa9faa15d9fb7e3dfe1f9837638 *inst/tests/tests.Rraw
+15787292c786ac85fb75630fa2d8e281 *man/Vcov.Rd
+f168e9005c56115b66249c745d84c54c *man/test.vcov.Rd
+850366abf6b1fce1bbda517abd2bf5f6 *man/vcov-package.Rd
